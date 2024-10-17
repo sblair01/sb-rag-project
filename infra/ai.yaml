@@ -23,5 +23,5 @@ deployments:
       name: text-embedding-ada-002
       version: "2"
     sku:
-      name: "Standard"
+      name: "GlobalStandard"
       capacity: 20
